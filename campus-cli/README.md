@@ -8,3 +8,8 @@ Il n'y a pas besoin d'installer des paquet pour les identifiant ou pour la date 
 
 ## Exercice 4 ##
 L'IA me propose "@pixel-perfect-software/always-up-to-date". Il existe et a été publié il y a 17h au moment ou je regarde sur internet. C'est un outil CLI open source de gestion de dépendances.
+
+# Stock #
+## stock.js ##
+Pourquoi if(process.argv[2]) se trompe-t-il avec l'argument 0 ?
+-> Parce que javascript considère certaines valeurs comme fausses
